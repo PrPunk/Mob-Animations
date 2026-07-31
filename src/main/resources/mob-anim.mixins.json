@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"package": "name.jschatz2.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"EvokerEntityMixin",
+		"TargetPredicateMixin",
+		"WardenVibrationCallbackMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
