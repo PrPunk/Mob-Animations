@@ -2,14 +2,14 @@
 	"schemaVersion": 1,
 	"id": "mob-anim",
 	"version": "${version}",
-	"name": "mob-anim",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Mob Animations",
+	"description": "This mod allows mobs to be controlled by commands",
 	"authors": [
-		"Me!"
+		"Josiah Schatz"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/mob-animations",
+		"sources": "https://github.com/PrPunk/Mob-Animations"
 	},
 	"license": "MIT",
 	"icon": "assets/mob-anim/icon.png",
